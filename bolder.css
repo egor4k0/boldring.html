@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+    background-color: blanchedalmond;
+}
+h1{
+    margin-left: 150px;
+    margin-right: 670px;
+    text-decoration:underline;
+}
+.h1{
+  margin-left: 385px;
+  margin-right: 410px;
+  margin-top: -55px;
+  text-decoration:underline;
+}
+.h2{
+  margin-left: 670px;
+  margin-right: 125px;
+  margin-top: -55px;
+  text-decoration:underline;
+}
+img{
+    width: auto;
+}
+.zagol1{
+    font-size: 55px;
+    text-align: center;
+}
+.pic1{
+margin-left: 100px;
+border-left:10px solid black;
+border-left-style:dotted;
+}
+.pic2{
+    margin-left: 150px;
+    border-left:10px solid black;
+border-left-style:dotted;
+}
+.pic3{
+    margin-left: 160px;
+    border-left:10px solid black;
+border-left-style:dotted;
+}
+.p333{
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 7px;
+}
+footer{
+    border: 10px solid black;
+    background-color: black;
+}
+footer p{
+    background-color: white;
+    font-size: 20px;
+    padding: 4px;
+}
+
+
